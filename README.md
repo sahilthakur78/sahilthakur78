@@ -24,9 +24,7 @@
 ## 📊 GitHub Stats 
 <p align="center">
     <img src="https://github-readme-stats-one-bice.vercel.app/api?username=sahilthakur78&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true" /> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilthakur78&layout=compact&theme=tokyonight&langs_count=20&hide_border=false&border_radius=12" height="170" />
-</p>
-
+    
 ---
 
 ## 🛰 GitHub Activity Graph  
@@ -64,12 +62,11 @@
 </p>
 
 ---
-
+ 
 ## 💬 Developer Quote  
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
-
 ---
 
 ## 🚀 Fun Fact  
