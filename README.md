@@ -9,8 +9,8 @@
 - Aspiring Full-Stack Developer  
 - Learning MERN Stack + React  
 - Passionate about coding & building real projects  
-- 📫 Email: **your-email@example.com**  
-- 💼 LinkedIn: **your-linkedin-profile**
+- 📫 Email: **sahilthakur78902u@gmail.com**  
+- 💼 LinkedIn: **www.linkedin.com/in/sahilthakur13**
 
 ---
 
@@ -38,23 +38,29 @@
 
 ## 🌐 Connect With Me  
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" width="46" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=gmail" width="46" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=instagram" width="46" /></a>
+  <a href="https://www.linkedin.com/in/sahilthakur13">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="46" />
+  </a>
+  <a href="mailto:sahilthakur78902u@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="46" />
+  </a>
+  <a href="https://www.instagram.com/sahil_thakur_.09/">
+    <img src="https://skillicons.dev/icons?i=instagram" width="46" />
+  </a>
 </p>
 
 ---
 
 ## 🧰 Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,expressjs,mongodb,python,js,c,cpp,java,html,css,tailwind" height="45" />
+  <img src="https://skillicons.dev/icons?i=react,python,js,c,cpp,java,html,css,tailwind,mysql" height="45" />
 </p>
 
 ---
 
 ## 🛠 Tools I Use  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,vite,bootstrap" height="45" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vite,bootstrap" height="45" />
 </p>
 
 ---
@@ -68,7 +74,7 @@
 
 ## 🚀 Fun Fact  
 <p align="center">
-  <strong>I love solving problems and building cool things with code 🚀</strong>
+  <strong>I turn caffeine ☕ into clean code and bugs into lessons.</strong>
 </p>
 
 ---
