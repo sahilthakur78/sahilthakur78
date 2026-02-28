@@ -24,6 +24,9 @@
 ## 📊 GitHub Stats 
 <p align="center">
     <img src="https://github-readme-stats-one-bice.vercel.app/api?username=sahilthakur78&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true" /> 
+    <img
+src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aryan-26-prog&theme=tokyonight"
+height="170"/>
     
 ---
 
