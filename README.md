@@ -7,7 +7,7 @@
 
 ## 🧑‍💻 About Me
 - Aspiring Full-Stack Developer  
-- Learning MERN Stack + React  
+- Learning MERN Stack 
 - Passionate about coding & building real projects  
 - 📫 Email: **sahilthakur78902u@gmail.com**  
 - 💼 LinkedIn: **www.linkedin.com/in/sahilthakur13**
