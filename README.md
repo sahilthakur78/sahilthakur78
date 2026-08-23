@@ -54,7 +54,7 @@ height="170"/>
 
 ## 🧰 Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,python,js,c,cpp,java,html,css,tailwind,mysql" height="45" />
+  <img src="https://skillicons.dev/icons?i=react,python,js,c,cpp,java,html,css,tailwind,mysql,php" height="45" />
 </p>
 
 ---
